@@ -1,2 +1,3 @@
+junos-eznc  # from collection user
 jsnapy  # from collection user
 jxmlease  # from collection user
