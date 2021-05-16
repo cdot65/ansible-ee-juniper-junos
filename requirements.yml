@@ -1,5 +1,6 @@
 ---
-roles:
-  - name: juniper.junos
-    version: 2.4.3
-
+collections:
+  - name: ansible.netcommon
+    version: 1.5.0
+  - name: netbox.netbox
+    version: 2.1.0
