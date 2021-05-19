@@ -2,6 +2,7 @@
 version: 1
 dependencies:
   galaxy: requirements.yml
+  python: requirements.txt
 
 additional_build_steps:
   prepend: |

@@ -1,7 +1,3 @@
-ansible-pylibssh  # from collection ansible.netcommon
-jxmlease  # from collection ansible.netcommon
-ncclient  # from collection ansible.netcommon
-selectors2  # from collection ansible.netcommon
-netaddr  # from collection ansible.netcommon
-paramiko  # from collection ansible.netcommon
-xmltodict  # from collection ansible.netcommon
+junos-eznc  # from collection user
+jsnapy  # from collection user
+jxmlease  # from collection user

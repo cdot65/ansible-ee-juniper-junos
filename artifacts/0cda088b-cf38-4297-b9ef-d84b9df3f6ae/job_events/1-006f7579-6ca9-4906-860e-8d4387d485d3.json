@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "006f7579-6ca9-4906-860e-8d4387d485d3", "counter": 1, "stdout": "\u001b[0;31mERROR! the role 'juniper.junos' was not found in /Users/cdot/Downloads/ee/roles:/Users/cdot/Downloads/ee/roles:/opt/app-root/src/.ansible/roles:/Users/cdot/Downloads/ee\u001b[0m", "start_line": 0, "end_line": 1, "runner_ident": "0cda088b-cf38-4297-b9ef-d84b9df3f6ae"}

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ansible-ee-juniper-junos"
+version = "0.1.0"
+description = ""
+authors = ["Calvin Remsburg <cremsburg@protonmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+ansible-builder = "^0.6.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
