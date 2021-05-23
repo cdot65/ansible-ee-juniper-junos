@@ -1,4 +1,5 @@
 ---
 roles:
   - name: juniper.junos
-    version: 2.4.3
+    src: https://github.com/cremsburg/ansible-junos-stdlib.git
+    version: roles
